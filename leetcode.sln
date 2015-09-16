@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unique-binary-search-trees-ii", "unique-binary-search-trees-ii\unique-binary-search-trees-ii.vcxproj", "{4112AF02-DEA6-43C1-9043-B2DD86B2E6AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse-linked-list-ii", "reverse-linked-list-ii\reverse-linked-list-ii.vcxproj", "{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4112AF02-DEA6-43C1-9043-B2DD86B2E6AF}.Release|x64.Build.0 = Release|x64
 		{4112AF02-DEA6-43C1-9043-B2DD86B2E6AF}.Release|x86.ActiveCfg = Release|Win32
 		{4112AF02-DEA6-43C1-9043-B2DD86B2E6AF}.Release|x86.Build.0 = Release|Win32
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Debug|x64.ActiveCfg = Debug|x64
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Debug|x64.Build.0 = Debug|x64
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Debug|x86.Build.0 = Debug|Win32
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x64.ActiveCfg = Release|x64
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x64.Build.0 = Release|x64
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x86.ActiveCfg = Release|Win32
+		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
