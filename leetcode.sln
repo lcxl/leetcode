@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unique-binary-search-trees-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse-linked-list-ii", "reverse-linked-list-ii\reverse-linked-list-ii.vcxproj", "{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "search-in-rotated-sorted-array", "search-in-rotated-sorted-array\search-in-rotated-sorted-array.vcxproj", "{126E2B66-0197-4A6F-8CB6-87A275834216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x64.Build.0 = Release|x64
 		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x86.ActiveCfg = Release|Win32
 		{BAD353E0-13E3-4D7B-A078-8CB0251A3BE2}.Release|x86.Build.0 = Release|Win32
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Debug|x64.ActiveCfg = Debug|x64
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Debug|x64.Build.0 = Debug|x64
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Debug|x86.ActiveCfg = Debug|Win32
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Debug|x86.Build.0 = Debug|Win32
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Release|x64.ActiveCfg = Release|x64
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Release|x64.Build.0 = Release|x64
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Release|x86.ActiveCfg = Release|Win32
+		{126E2B66-0197-4A6F-8CB6-87A275834216}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
