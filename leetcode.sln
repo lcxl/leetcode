@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "search-in-rotated-sorted-ar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jump-game-ii", "jump-game-ii\jump-game-ii.vcxproj", "{D91E763E-CA7E-4CCB-9F11-3C11BFEAE0FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "path-sum", "path-sum\path-sum.vcxproj", "{AD95FC71-7879-48FE-819F-ABC676BE41D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{D91E763E-CA7E-4CCB-9F11-3C11BFEAE0FF}.Release|x64.Build.0 = Release|x64
 		{D91E763E-CA7E-4CCB-9F11-3C11BFEAE0FF}.Release|x86.ActiveCfg = Release|Win32
 		{D91E763E-CA7E-4CCB-9F11-3C11BFEAE0FF}.Release|x86.Build.0 = Release|Win32
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Debug|x64.ActiveCfg = Debug|x64
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Debug|x64.Build.0 = Debug|x64
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Debug|x86.Build.0 = Debug|Win32
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x64.ActiveCfg = Release|x64
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x64.Build.0 = Release|x64
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x86.ActiveCfg = Release|Win32
+		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
