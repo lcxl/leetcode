@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jump-game-ii", "jump-game-i
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "path-sum", "path-sum\path-sum.vcxproj", "{AD95FC71-7879-48FE-819F-ABC676BE41D1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "path-sum-ii", "path-sum-ii\path-sum-ii.vcxproj", "{5F094468-2A94-40AE-84D9-291E33AAAD86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x64.Build.0 = Release|x64
 		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x86.ActiveCfg = Release|Win32
 		{AD95FC71-7879-48FE-819F-ABC676BE41D1}.Release|x86.Build.0 = Release|Win32
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Debug|x64.ActiveCfg = Debug|x64
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Debug|x64.Build.0 = Debug|x64
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Debug|x86.Build.0 = Debug|Win32
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Release|x64.ActiveCfg = Release|x64
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Release|x64.Build.0 = Release|x64
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Release|x86.ActiveCfg = Release|Win32
+		{5F094468-2A94-40AE-84D9-291E33AAAD86}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
