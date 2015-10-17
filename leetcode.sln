@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "search-for-a-range", "searc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination-sum-iii", "combination-sum-iii\combination-sum-iii.vcxproj", "{CD1E7F58-5A5D-4392-B6ED-02FC40AC807C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination-sum", "combination-sum\combination-sum.vcxproj", "{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{CD1E7F58-5A5D-4392-B6ED-02FC40AC807C}.Release|x64.Build.0 = Release|x64
 		{CD1E7F58-5A5D-4392-B6ED-02FC40AC807C}.Release|x86.ActiveCfg = Release|Win32
 		{CD1E7F58-5A5D-4392-B6ED-02FC40AC807C}.Release|x86.Build.0 = Release|Win32
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Debug|x64.ActiveCfg = Debug|x64
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Debug|x64.Build.0 = Debug|x64
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Debug|x86.Build.0 = Debug|Win32
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Release|x64.ActiveCfg = Release|x64
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Release|x64.Build.0 = Release|x64
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Release|x86.ActiveCfg = Release|Win32
+		{2FB11684-D03D-4EED-ADC2-ED3A59EC09EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
