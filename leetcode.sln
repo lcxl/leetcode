@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination-sum", "combinat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination-sum-ii", "combination-sum-ii\combination-sum-ii.vcxproj", "{531BABA6-34FF-42F9-9369-8427177FFB02}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge-sorted-array", "merge-sorted-array\merge-sorted-array.vcxproj", "{E61F1A64-8406-4347-8CC6-61C24124920A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{531BABA6-34FF-42F9-9369-8427177FFB02}.Release|x64.Build.0 = Release|x64
 		{531BABA6-34FF-42F9-9369-8427177FFB02}.Release|x86.ActiveCfg = Release|Win32
 		{531BABA6-34FF-42F9-9369-8427177FFB02}.Release|x86.Build.0 = Release|Win32
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Debug|x64.ActiveCfg = Debug|x64
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Debug|x64.Build.0 = Debug|x64
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Debug|x86.Build.0 = Debug|Win32
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x64.ActiveCfg = Release|x64
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x64.Build.0 = Release|x64
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x86.ActiveCfg = Release|Win32
+		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
