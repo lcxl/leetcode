@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination-sum-ii", "combi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge-sorted-array", "merge-sorted-array\merge-sorted-array.vcxproj", "{E61F1A64-8406-4347-8CC6-61C24124920A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary-tree-maximum-path-sum", "binary-tree-maximum-path-sum\binary-tree-maximum-path-sum.vcxproj", "{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x64.Build.0 = Release|x64
 		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x86.ActiveCfg = Release|Win32
 		{E61F1A64-8406-4347-8CC6-61C24124920A}.Release|x86.Build.0 = Release|Win32
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Debug|x64.ActiveCfg = Debug|x64
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Debug|x64.Build.0 = Debug|x64
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Debug|x86.Build.0 = Debug|Win32
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Release|x64.ActiveCfg = Release|x64
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Release|x64.Build.0 = Release|x64
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Release|x86.ActiveCfg = Release|Win32
+		{B2EAE576-8EE7-48F7-9E53-D741A7F8D8F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
